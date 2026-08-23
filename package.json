@@ -7,7 +7,7 @@
     "access": "public"
   },
   "dependencies": {
-    "canvas": "^2.10.1",
+    "canvas": "npm:skia-canvas",
     "fortnite": "^4.3.2",
     "fortnite-9812": "^1.0.4",
     "moment": "^2.29.1"
