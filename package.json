@@ -1,0 +1,44 @@
+{
+  "name": "@Kenz472/canvafy-canvas",
+  "version": "2.1.0",
+  "description": "canvafy-canvas adalah canvas yang di generate untuk welcome dan lain nya biar kece ☑️",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "canvas": "^2.10.1",
+    "fortnite": "^4.3.2",
+    "fortnite-9812": "^1.0.4",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kenz472/canvafy-canvas.git"
+  },
+    "keywords": [
+    "canvas",
+    "discord-canvas",
+    "discord-js",
+    "djs-canvas",
+    "welcome-card",
+    "rank-card",
+    "discord-bot",
+    "discord.js",
+    "image-generation",
+    "html5-canvas",
+    "profile-card",
+    "level-card",
+    "nodejs-canvas"
+],
+  "author": "KENZ • Coding",
+  "license": "ISC",
+   "bugs": {
+    "url": "https://github.com/Kenz472/canvafy-canvas/issues"
+  },
+  "homepage": "https://github.com/Kenz472/canvafy-canvas#readme"
+}
